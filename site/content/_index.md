@@ -1,7 +1,7 @@
 ---
 title: Trại dế Xuân Diệu
 subtitle: ' '
-image: /img/nuoi.jpeg
+image: /img/de_homepage.jpeg
 blurb:
   heading: Trại Dế Xuân Diệu
   text: Trại Dế Xuân Diệu chuyên cung cấp sỉ và lẻ dế thương phẩm
