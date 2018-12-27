@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/1957e7b49c071e2.jpg
 contact_entries:
   - heading: 'Địa chỉ: '
     text: |-
@@ -10,8 +10,5 @@ contact_entries:
     text: Tất cả các ngày trong tuần
 ---
 Các vị có nhu cầu đặt hàng xin vui lòng liên hệ SĐT: **0963.156.141** hoặc **0968.77.00.55**
-
-
-
 
 ![](/img/dia_chi.jpg)
